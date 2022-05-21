@@ -58,12 +58,15 @@ Matkul : Sistem Basis Data
 
  Hasil browser 
  
- ![image](https://user-images.githubusercontent.com/101645216/169638712-165a1931-5972-4cb0-8544-491dec3f9449.png)
- 
+ ![image](https://user-images.githubusercontent.com/101645216/169640036-e2df31d2-13e9-44be-a87f-3fbedda72004.png)
+
  
 - user 
-
-
- Hasil browser 
  
- ![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/101645216/169639853-71194648-20d6-4c18-a200-f4a392da54fb.png)
+ 
+  Hasil browser 
+  
+ ![image](https://user-images.githubusercontent.com/101645216/169639958-71fcb85b-79e2-47c1-9e81-3e799aacb59c.png)
+
+  
