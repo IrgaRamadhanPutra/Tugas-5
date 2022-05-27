@@ -13,8 +13,10 @@ Matkul : Sistem Basis Data
 
 
 - Membuat akses untuk database 
+
   
- ![image](https://user-images.githubusercontent.com/101645216/169637835-18882a41-cf54-420c-a489-1d7c895feb19.png)
+![image](https://user-images.githubusercontent.com/101645216/170693808-dbfca23b-93ce-4369-a4fd-6c6160f15556.png)
+
 
 - Pasien 
 
